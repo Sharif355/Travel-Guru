@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "Cox's Bazar",
+      "description": "Cox's Bazar is a popular tourist destination in Bangladesh, known for having the longest natural sea beach in the world. With its breathtaking sandy coastline stretching for approximately 120 kilometers along the Bay of Bengal, Cox's Bazar offers a picturesque view of the ocean. Visitors can enjoy the serene beach, swim in the crystal-clear waters, and savor delicious seafood from local restaurants. The town also has vibrant markets and cultural attractions.",
+      "image_url": "https://i.ibb.co/D5hXK62/Rectangle-1.png",
+      "bg_url": "https://i.ibb.co/D5hXK62/Rectangle-1.png"
+    },
+    {
+      "id": 2,
+      "title": "Srimangal",
+      "description": "Srimangal is often referred to as the 'Tea Capital of Bangladesh' due to its lush tea gardens and scenic beauty. The town is located in the Sylhet division and is famous for its tea plantations, rolling hills, and serene landscapes. Tourists can explore the tea estates, visit the Lawachara National Park, and experience the rich biodiversity of the region. Srimangal is also renowned for its unique seven-layer tea, a must-try for tea enthusiasts.",
+      "image_url": "https://i.ibb.co/4J5pgGh/Sreemongol.png",
+      "bg_url": "https://i.ibb.co/dbXwcnR/Rectangle-27.png"
+    },
+    {
+      "id": 3,
+      "title": "Sundarbans",
+      "description": "The Sundarbans is a UNESCO World Heritage Site and one of the largest mangrove forests in the world. Located in the southwestern part of Bangladesh, this unique ecosystem is home to the Bengal tiger and a diverse range of wildlife. Tourists can explore the dense mangrove forests, go on boat safaris to spot wildlife, and visit the picturesque river islands. The Sundarbans is a haven for nature lovers and adventure seekers.",
+      "image_url": "https://i.ibb.co/gzDqMwf/sundorbon.png",
+      "bg_url": "https://i.ibb.co/L9QHBdy/Rectangle-28.png"
+    },
+    {
+      "id": 4,
+      "title": "Sajek",
+      "description": "Sajek is a hidden gem nestled in the Chittagong Hill Tracts of Bangladesh. Known for its lush green hills, pristine rivers, and panoramic views, Sajek offers a tranquil escape for nature enthusiasts. Visitors can trek through the dense forests, enjoy the cool mountain air, and interact with indigenous communities. Sajek is an ideal destination for those seeking a peaceful retreat amidst nature's beauty.",
+      "image_url": "https://i.ibb.co/PwXjw25/Sajek.png",
+      "bg_url": "https://i.ibb.co/L9QHBdy/Rectangle-28.png"
+    }
+  ]
+  

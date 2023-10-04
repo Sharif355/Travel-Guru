@@ -1,4 +1,4 @@
-import { NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import logoPng from "../assets/images/logo.png";
 
 const Navbar = () => {
@@ -39,9 +39,12 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn hidden lg:flex px-7 py-3 normal-case bg-[#F9A51A] hover:bg-[#9c7944]">
+          <Link
+            to="/login"
+            className="btn hidden lg:flex px-7 py-3 normal-case bg-[#F9A51A] hover:bg-[#9c7944]"
+          >
             Login
-          </a>
+          </Link>
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost lg:hidden">
               <svg
@@ -64,7 +67,9 @@ const Navbar = () => {
               className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
             >
               {navLinks}
-              <a className="ml-2">Login</a>
+              <Link to="/login" className="ml-2">
+                Login
+              </Link>
             </ul>
           </div>
         </div>
